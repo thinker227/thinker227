@@ -8,7 +8,7 @@ Main languages are <a href="https://github.com/thinker227?tab=repositories&type=
 
 <br>
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=thinker227&show_icons=true&count_private=true&bg_color=45,ff4c21,7492ff&title_color=ffffff&text_color=434343&icon_color=434343&hide_border=true&border_radius=20)
+![Statistics](https://github-readme-stats.vercel.app/api?username=thinker227&show_icons=true&count_private=true&bg_color=45,ff4c21,7492ff&title_color=ffffff&text_color=434343&icon_color=434343&hide_border=true&border_radius=0)
 
 [![Profile picture by @NightNight](https://img.shields.io/static/v1?label=Profile%20picture%20by&message=@NiftyNight&color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.twitter.com/NiftyNight)
 
@@ -18,4 +18,4 @@ Main languages are <a href="https://github.com/thinker227?tab=repositories&type=
 
 Currently working on a weird esoteric programming language.
 
-[![RelineLang](https://github-readme-stats.vercel.app/api/pin/?username=thinker227&repo=RelineLang&show_owner=false&bg_color=434343&border_radius=20&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true)](https://github.com/thinker227/RelineLang)
+[![RelineLang](https://github-readme-stats.vercel.app/api/pin/?username=thinker227&repo=RelineLang&show_owner=false&bg_color=434343&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&border_radius=30)](https://github.com/thinker227/RelineLang)
