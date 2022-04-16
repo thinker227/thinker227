@@ -10,7 +10,7 @@ Main languages are C# and sometimes Haskell if I'm feeling adventureous.
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=thinker227&show_icons=true&count_private=true&bg_color=45,ff4c21,7492ff&title_color=ffffff&text_color=434343&icon_color=434343&hide_border=true&border_radius=20)
 
-[![Profile picture by @NightNight](https://img.shields.io/static/v1?label=Profile%20picture%20by&message=NiftyNight&color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.twitter.com/NiftyNight)
+[![Profile picture by @NightNight](https://img.shields.io/static/v1?label=Profile%20picture%20by&message=@NiftyNight&color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.twitter.com/NiftyNight)
 
 ---
 
