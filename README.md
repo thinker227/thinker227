@@ -2,7 +2,7 @@ I'm a hobbyist programmer and occasionally game developer.
 
 My main area of interest is currently compilers and programming language development.
 
-Main languages are <a href="https://github.com/thinker227?tab=repositories&q=&type=source&language=c%23&sort=stargazers"><img src="./csharp.png" width="30" height="30" align=center alt="C#" title="Repos written in C#"></a> and sometimes <img src="./haskell.png" width="30" height="30" align=center alt="Haskell" title="I don't have any repos written in Haskell yet qwq"> if I'm feeling adventureous.
+Main languages are <a href="https://github.com/thinker227?tab=repositories&type=source&language=c%23&sort=stargazers"><img src="./csharp.png" width="30" height="30" align=center alt="C#" title="Repos written in C#"></a> and sometimes <a href="https://www.google.com/teapot"><img src="./haskell.png" width="30" height="30" align=center alt="Haskell" title="I don't have any repos written in Haskell yet qwq"></a> if I'm feeling adventureous.
 
 ---
 
