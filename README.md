@@ -1,4 +1,4 @@
-I'm a hobbyist programmer and occasionally game developer.
+I'm a hobbyist programmer and (very) occasionally game developer.
 
 My main area of interest is currently compilers and programming language development.
 
