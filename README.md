@@ -16,6 +16,4 @@ Main languages are <a href="https://github.com/thinker227?tab=repositories&type=
 
 <br>
 
-Currently working on a weird esoteric programming language.
-
-[![RelineLang](https://github-readme-stats.vercel.app/api/pin/?username=thinker227&repo=RelineLang&show_owner=false&bg_color=434343&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&border_radius=30)](https://github.com/thinker227/RelineLang)
+Currently working on various programming language development-related things, as well as miscellaneous side-projects whenever I feel like it.
