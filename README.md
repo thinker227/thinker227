@@ -1,8 +1,8 @@
 I'm a hobbyist programmer and (very) occasionally game developer.
 
-My main area of interest is currently compilers and programming language development. Also interested in functional programming. Ask me what a monad is, I might have a reasonable answer.
+My main area of interest ranges from compilers and programming languages to small hobby game projects. Also interested in functional programming. Ask me what a monad is, I might have a reasonable answer.
 
-Currently working on various programming language development-related things, as well as miscellaneous side-projects whenever I feel like it.
+Currently working on various "side-projects" whenever I feel like it.
 
 Main languages are <a href="https://github.com/thinker227?tab=repositories&type=source&language=c%23&sort=stargazers"><img src="./csharp.png" width="30" height="30" align=center alt="C#" title="Repos written in C#"></a> and sometimes <a href="https://github.com/thinker227?tab=repositories&type=source&language=haskell&sort=stargazers"><img src="./haskell.png" width="30" height="30" align=center alt="Haskell" title="Repos written in Haskell"></a> if I'm feeling adventureous. Also learning <a href="https://www.google.com/teapot"><img src="./fsharp.png" width="30" height="30" align=center alt="F#" title="I don't have any repos written in F# yet qwq"></a> as a side.
 
