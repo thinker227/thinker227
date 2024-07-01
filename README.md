@@ -4,7 +4,7 @@ My main area of interest ranges from compilers and programming languages to smal
 
 Currently working on a programming language called [Noa](https://github.com/thinker227/noa)!
 
-Main languages are <a href="https://github.com/thinker227?tab=repositories&type=source&language=c%23&sort=stargazers"><img src="./csharp.png" width="30" height="30" align=center alt="C#" title="Repos written in C#"></a>, <a href="https://github.com/thinker227?tab=repositories&type=source&language=rust&sort=stargazers"><img src="./rust.png" width="30" height="30" align=center alt="Rust" title="Repos written in Rust"></a>, and sometimes <a href="https://github.com/thinker227?tab=repositories&type=source&language=haskell&sort=stargazers"><img src="./haskell.png" width="30" height="30" align=center alt="Haskell" title="Repos written in Haskell"></a> if I'm feeling adventureous.
+Main languages are <a href="https://github.com/thinker227?tab=repositories&type=source&language=c%23&sort=stargazers"><img src="./csharp.png" width="30" height="30" align="center" alt="C#" title="Repos written in C#"></a>, <a href="https://github.com/thinker227?tab=repositories&type=source&language=rust&sort=stargazers"><img src="./rust.png" width="30" height="30" align="center" alt="Rust" title="Repos written in Rust"></a>, and sometimes <a href="https://github.com/thinker227?tab=repositories&type=source&language=haskell&sort=stargazers"><img src="./haskell.png" width="30" height="30" align="center" alt="Haskell" title="Repos written in Haskell"></a> if I'm feeling adventureous.
 
 ---
 
